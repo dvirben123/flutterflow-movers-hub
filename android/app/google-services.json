@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "149362612275",
+    "project_id": "movers-hub-mobile",
+    "storage_bucket": "movers-hub-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149362612275:android:ee4fa2c2aa6d6379ccab46",
+        "android_client_info": {
+          "package_name": "com.dvirbi.movershub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149362612275-ndct00k7rtad9cmfvkntdptvq6618ies.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dvirbi.movershub",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "149362612275-0eooaila53fqq6kce67n1rntpb34t4qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChEr9DTxXA-G__IuVW8NsHp-Nczni7OHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149362612275-0eooaila53fqq6kce67n1rntpb34t4qo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149362612275-ajnadbm1fb297jjdl6eend1g12ruijlb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dvirbi.movershub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
